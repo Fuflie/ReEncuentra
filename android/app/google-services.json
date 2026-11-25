@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919668534212",
+    "project_id": "reencuentra-d5e12",
+    "storage_bucket": "reencuentra-d5e12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919668534212:android:29b4aa85206ff6a110d291",
+        "android_client_info": {
+          "package_name": "com.example.re_encuentra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOOaXQTRzYo-GKsEGXX5B_D9urZO9lKrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
